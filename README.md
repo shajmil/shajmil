@@ -9,7 +9,7 @@
 <a href="https://instagram.com/shajmil.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shajmil.___" height="30" width="40" /></a>
 </p>
 
-- 👨‍💻 My website [shajmil](www.shajmil.me)
+- 👨‍💻 My website [shajmil](https://www.shajmil.me)
 
 - 📄 Know about my experiences [https://github.com/shajmil/RESUME/raw/main/SHAJMIL_RESUME.pdf](https://github.com/shajmil/RESUME/raw/main/SHAJMIL_RESUME.pdf)
 
